@@ -14,3 +14,12 @@ Kegunaan:
 Pengendalian Kebakaran: Membantu tim pengendalian kebakaran untuk memahami tingkat kesulitan pengendalian di berbagai area.
 Perencanaan Tanggap Darurat: Memungkinkan perencana tanggap darurat untuk mengidentifikasi daerah-daerah dengan tingkat kesulitan tinggi.
 Studi Lingkungan: Berguna untuk penelitian dan studi mengenai pola kebakaran dan faktor geografis yang mempengaruhi pengendalian kebakaran.
+
+![1](https://github.com/nchola/leafletjs-topografi.pengendalian.kebakaran/assets/108863217/db74c01b-876a-4c87-965a-c6383e82452d)
+
+
+![2](https://github.com/nchola/leafletjs-topografi.pengendalian.kebakaran/assets/108863217/dfb1a69d-543e-4905-94b5-c609fcdbfe72)
+
+![3](https://github.com/nchola/leafletjs-topografi.pengendalian.kebakaran/assets/108863217/4841a9cc-570e-43e1-b313-282d5d730907)
+
+![4](https://github.com/nchola/leafletjs-topografi.pengendalian.kebakaran/assets/108863217/18ec910e-774b-4980-8e4f-7cf55cbcd10d)
