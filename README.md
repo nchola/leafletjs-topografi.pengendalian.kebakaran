@@ -1,19 +1,45 @@
-Aplikasi Peta Topografi Pengendalian Kebakaran Berbasis Data Geomap Sumatera Selatan
-Aplikasi ini merupakan alat visualisasi yang menggunakan peta interaktif untuk menunjukkan tingkat kesulitan pengendalian kebakaran di wilayah Sumatera Selatan. Dengan memanfaatkan berbagai sumber data geospasial, aplikasi ini memetakan dan menampilkan informasi penting mengenai tingkat kesulitan pengendalian kebakaran berdasarkan grid code dan data elevasi kontur tanah.
+# LeafletJS Topografi Pengendalian Kebakaran
 
-Fitur Utama:
+This project utilizes LeafletJS to visualize topographical data for fire control management. It provides an interactive map interface to help users analyze and manage fire control strategies based on topographic information.
 
-Peta Interaktif: Menggunakan Leaflet untuk menampilkan peta yang dapat diperbesar, diperkecil, dan dipindahkan.
-Lapisan Data: Menampilkan beberapa lapisan peta termasuk peta jalan provinsi, peta kontur tanah, dan peta kesulitan pengendalian kebakaran.
-Informasi Dinamis: Menampilkan informasi dinamis ketika pengguna mengarahkan mouse ke area tertentu di peta, termasuk tingkat kesulitan pengendalian dan elevasi.
-Legends dan Style: Menyediakan legenda interaktif dan gaya warna berdasarkan grid code untuk membedakan tingkat kesulitan pengendalian kebakaran.
-Integrasi Data Eksternal: Kemampuan untuk mengambil dan menerapkan data eksternal yang relevan dengan tingkat kesulitan pengendalian kebakaran.
+## Key Features
 
-Kegunaan:
+- **Interactive Map**: Utilizes LeafletJS to display an interactive map with various layers.
+- **Topographic Data**: Integration of topographic data to assist in fire control management.
+- **Data Visualization**: Visual representation of fire control zones and related information.
+- **User Interaction**: Tools for users to interact with the map, including zoom, pan, and layer toggling.
 
-Pengendalian Kebakaran: Membantu tim pengendalian kebakaran untuk memahami tingkat kesulitan pengendalian di berbagai area.
-Perencanaan Tanggap Darurat: Memungkinkan perencana tanggap darurat untuk mengidentifikasi daerah-daerah dengan tingkat kesulitan tinggi.
-Studi Lingkungan: Berguna untuk penelitian dan studi mengenai pola kebakaran dan faktor geografis yang mempengaruhi pengendalian kebakaran.
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Mapping Library**: LeafletJS
+- **Data Sources**: Topographic data and fire control data
+
+## Installation
+
+1. **Clone this repository**:
+
+    ```bash
+    git clone https://github.com/nchola/leafletjs-topografi.pengendalian.kebakaran
+    ```
+
+2. **Navigate to the project directory**:
+
+    ```bash
+    cd leafletjs-topografi.pengendalian.kebakaran
+    ```
+
+3. **Open the `index.html` file in your browser**:
+
+    ```bash
+    open index.html
+    ```
+
+## Usage
+
+- **Interact with the Map**: Use the zoom and pan features to navigate the map.
+- **Toggle Layers**: Enable or disable different layers to view various types of data.
+- **Analyze Topographic Data**: Use the map to analyze topographic information for fire control management.
 
 ![1](https://github.com/nchola/leafletjs-topografi.pengendalian.kebakaran/assets/108863217/db74c01b-876a-4c87-965a-c6383e82452d)
 
